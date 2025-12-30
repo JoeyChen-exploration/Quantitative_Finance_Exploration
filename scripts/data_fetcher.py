@@ -2,7 +2,7 @@ import akshare as ak
 import os
 
 def fetch_data_ak():
-    symbol = "AAPL"
+    symbol = "NVDA"
     print(f"--- 使用 AkShare 下载 {symbol} 数据 ---")
     
     # get_us_stock_daily 是 AkShare 获取美股的接口
