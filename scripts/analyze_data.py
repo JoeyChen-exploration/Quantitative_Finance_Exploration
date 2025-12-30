@@ -63,4 +63,4 @@ def run_analysis(symbol):
     plt.show()
 
 if __name__ == "__main__":
-    run_analysis("AAPL")
+    run_analysis("NVDA")
